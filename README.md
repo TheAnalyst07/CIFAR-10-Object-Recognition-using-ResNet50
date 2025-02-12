@@ -1,7 +1,5 @@
 # CIFAR-10-Object-Recognition-using-ResNet50
 
-# CIFAR-10 Object Recognition using ResNet50
-
 ## 📌 Project Overview
 This project implements object recognition on the **CIFAR-10** dataset using a **ResNet50** deep learning model. The model is trained to classify images into 10 different categories, achieving high accuracy with transfer learning and data augmentation techniques.
 
